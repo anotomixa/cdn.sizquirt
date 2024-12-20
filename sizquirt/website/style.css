@@ -853,7 +853,7 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 }
 
 #text09 {
-    color: #FFD9D9;
+    color: #FFFFFF;
     font-family: 'IBM Plex Serif', serif;
     font-size: 1.375em;
     line-height: 1;
@@ -874,7 +874,7 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 }
 
 #text06 {
-    color: #FFD9D9;
+    color: #FFFFFF;
     font-family: 'IBM Plex Serif', serif;
     padding-left: calc(3.25rem * var(--indent-left));
     padding-right: calc(3.25rem * var(--indent-right));
