@@ -167,9 +167,9 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
     vertical-align: baseline;
 }
 .topnav {
-    background-color: #747474;
+    background-color: #B09BC6;
     overflow: hidden;
-    border-radius: 10px;
+    border-radius: 2px;
 }
     /* Style the links inside the navigation bar */
     .topnav a {
@@ -180,14 +180,14 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
         padding: 14px 16px;
         text-decoration: none;
         font-size: 17px;
-        border-radius: 10px;
+        border-radius: 2px;
     }
 
         /* Change the color of links on hover */
         .topnav a:hover {
             background-color: #E3C8FF;
             color: black;
-            border-radius: 10px;
+            border-radius: 2px;
         }
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
     display: block;
