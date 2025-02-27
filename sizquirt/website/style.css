@@ -169,7 +169,6 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 .topnav {
     background-color: #747474;
     overflow: hidden;
-    position: fixed;
     border-radius: 10px;
 }
     /* Style the links inside the navigation bar */
