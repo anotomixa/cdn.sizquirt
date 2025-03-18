@@ -653,10 +653,11 @@ body.is-instant:after {
 #image02 .frame {
     width: 19.75rem;
     height: 14.25rem;
-    border-color: #C19CFF;
+    border-color: #C3C9EC;
+    border-radius: 10px;
     border-style: solid;
-    border-width: 2px;
-    box-shadow: 0.022rem 0.249rem 1.25rem 0.125rem #C19CFF;
+    border-width: 3px;
+    box-shadow: 0.022rem 0.249rem 1.25rem 0.125rem #969DC8;
     transition: none;
 }
 
