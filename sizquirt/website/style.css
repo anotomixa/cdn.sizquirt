@@ -1207,63 +1207,6 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
     background-size: cover;
 }
 
-#buttons11 .button {
-    background-color: #F08456;
-    color: #FFFFFF;
-    background-image: linear-gradient(22deg, rgba(198,67,3) 0%, rgba(183,94,56,0.008) 100%);
-    background-position: 0% 0%;
-    background-repeat: repeat;
-    background-size: cover;
-}
-#buttons11 {
-    gap: 0.25rem;
-    flex-direction: column;
-    flex-wrap: nowrap;
-}
-
-#buttons11 li a {
-    display: inline-flex;
-    width: 10rem;
-    height: 1.875rem;
-    line-height: 1.875rem;
-    padding: 0 0.46875rem;
-    vertical-align: middle;
-    font-family: 'IBM Plex Serif', serif;
-    font-size: 1em;
-    font-weight: 500;
-    border-radius: 0.125rem;
-    box-shadow: 0rem 0.125rem 0.125rem 0rem rgba(0,0,0,0.09);
-    flex-direction: row-reverse;
-    transition: color 0.25s ease, background-color 0.25s ease, border-color 0.25s ease;
-}
-
-#buttons11 li a svg {
-    display: block;
-    fill: #E0E0E0;
-    flex-grow: 0;
-    flex-shrink: 0;
-    height: 100%;
-    min-width: 16px;
-    width: 1.375em;
-    margin-left: 0.5em;
-    margin-right: calc(-0.125em + 0rem);
-    transition: fill 0.25s ease;
-}
-
-#buttons11 li a .label {
-    direction: var(--site-language-direction);
-    overflow: hidden;
-}
-#buttons11 .button svg {
-    fill: #FFFFFF;
-}
-#buttons11 li a svg {
-    fill: #FFFFFF;
-}
-#buttons11 .n07 svg {
-    fill: #FFFFFF;
-}
-
 #buttons01 .button svg {
     fill: #FFFFFF;
 }
@@ -1276,10 +1219,6 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 
 #buttons01 .button:hover {
     background-color: rgba(211,183,232,0.729) !important;
-}
-
-#buttons11 .button:hover {
-    background-color: rgba(245,156,118,0.729) !important;
 }
 
 #buttons01 .n01 {
