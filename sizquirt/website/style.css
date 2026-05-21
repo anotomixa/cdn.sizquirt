@@ -315,7 +315,7 @@ body:before {
     width: 100vw;
     z-index: 0;
     background-image: url('https://cdn.sizquirt.net/sizquirt/website/assets/images/image03.jpg');
-    background-size: 820px, cover, cover;
+    background-size: cover;
     background-position: center, 0% 0%, top left;
     background-color: #FFFFFF;
 }
