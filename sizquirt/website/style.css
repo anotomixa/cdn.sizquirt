@@ -1,161 +1,161 @@
 @font-face {
-    font-family: 'IBM Plex Serif';
+    font-family: 'Tektur';
     font-style: normal;
     font-weight: 400;
     font-display: swap;
-    src: url('https://cdn.sizquirt.net/sizquirt/website/assets/fonts/48b31c96f6240af403b659004525a8b1/a247510a743bb348d220992580284ba1.woff2') format('woff2');
+    src: url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
 }
 
 @font-face {
-    font-family: 'IBM Plex Serif';
+    font-family: 'Tektur';
     font-style: italic;
     font-weight: 400;
     font-display: swap;
-    src: url('https://cdn.sizquirt.net/sizquirt/website/assets/fonts/48b31c96f6240af403b659004525a8b1/fe7eaad72d36050411ccb2c6c0038bcd.woff2') format('woff2');
+    src: url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
 }
 
 @font-face {
-    font-family: 'IBM Plex Serif';
+    font-family: 'Tektur';
     font-style: normal;
     font-weight: 500;
     font-display: swap;
-    src: url('https://cdn.sizquirt.net/sizquirt/website/assets/fonts/48b31c96f6240af403b659004525a8b1/e7d53d8f521618b7d747751a3a27f221.woff2') format('woff2');
+    src: url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
 }
 
 @font-face {
-    font-family: 'IBM Plex Serif';
+    font-family: 'Tektur';
     font-style: italic;
     font-weight: 500;
     font-display: swap;
-    src: url('https://cdn.sizquirt.net/sizquirt/website/assets/fonts/48b31c96f6240af403b659004525a8b1/ca665cd02292a61a75553d1b541ed81e.woff2') format('woff2');
+    src: url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
 }
 
 @font-face {
-    font-family: 'IBM Plex Serif';
+    font-family: 'Tektur';
     font-style: normal;
     font-weight: 600;
     font-display: swap;
-    src: url('https://cdn.sizquirt.net/sizquirt/website/assets/fonts/48b31c96f6240af403b659004525a8b1/cffbaccf419e195d8e40db72676e94d5.woff2') format('woff2');
+    src: url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
 }
 
 @font-face {
-    font-family: 'IBM Plex Serif';
+    font-family: 'Tektur';
     font-style: italic;
     font-weight: 600;
     font-display: swap;
-    src: url('https://cdn.sizquirt.net/sizquirt/website/assets/fonts/48b31c96f6240af403b659004525a8b1/7474fafa1b9b76c82be3307a0e004983.woff2') format('woff2');
+    src: url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
 }
 
 @font-face {
-    font-family: 'IBM Plex Serif';
+    font-family: 'Tektur';
     font-style: normal;
     font-weight: 300;
     font-display: swap;
-    src: url('https://cdn.sizquirt.net/sizquirt/website/assets/fonts/48b31c96f6240af403b659004525a8b1/a1b355b62b458237c72e54c48a366980.woff2') format('woff2');
+    src: url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
 }
 
 @font-face {
-    font-family: 'IBM Plex Serif';
+    font-family: 'Tektur';
     font-style: italic;
     font-weight: 300;
     font-display: swap;
-    src: url('https://cdn.sizquirt.net/sizquirt/website/assets/fonts/48b31c96f6240af403b659004525a8b1/b84dda0c287cb5c06e79f20a8976e041.woff2') format('woff2');
+    src: url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
 }
 
 @font-face {
-    font-family: 'IBM Plex Serif';
+    font-family: 'Tektur';
     font-style: normal;
     font-weight: 600;
     font-display: swap;
-    src: url('https://cdn.sizquirt.net/sizquirt/website/assets/fonts/48b31c96f6240af403b659004525a8b1/cffbaccf419e195d8e40db72676e94d5.woff2') format('woff2');
+    src: url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
 }
 
 @font-face {
-    font-family: 'IBM Plex Serif';
+    font-family: 'Tektur';
     font-style: italic;
     font-weight: 600;
     font-display: swap;
-    src: url('https://cdn.sizquirt.net/sizquirt/website/assets/fonts/48b31c96f6240af403b659004525a8b1/7474fafa1b9b76c82be3307a0e004983.woff2') format('woff2');
+    src: url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
 }
 
 @font-face {
-    font-family: 'IBM Plex Serif';
+    font-family: 'Tektur';
     font-style: normal;
     font-weight: 600;
     font-display: swap;
-    src: url('https://cdn.sizquirt.net/sizquirt/website/assets/fonts/48b31c96f6240af403b659004525a8b1/cffbaccf419e195d8e40db72676e94d5.woff2') format('woff2');
+    src: url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
 }
 
 @font-face {
-    font-family: 'IBM Plex Serif';
+    font-family: 'Tektur';
     font-style: italic;
     font-weight: 600;
     font-display: swap;
-    src: url('https://cdn.sizquirt.net/sizquirt/website/assets/fonts/48b31c96f6240af403b659004525a8b1/7474fafa1b9b76c82be3307a0e004983.woff2') format('woff2');
+    src: url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
 }
 
 @font-face {
-    font-family: 'Ibarra Real Nova';
+    font-family: 'Tektur';
     font-style: normal;
     font-weight: 400;
     font-display: swap;
-    src: url('https://cdn.sizquirt.net/sizquirt/website/assets/fonts/71f91e190b3095761c817ea293e87452/535b35c6bb3b0406fc354a30a79a845e.woff2') format('woff2');
+    src: url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
 }
 
 @font-face {
-    font-family: 'Ibarra Real Nova';
+    font-family: 'Tektur';
     font-style: italic;
     font-weight: 400;
     font-display: swap;
-    src: url('https://cdn.sizquirt.net/sizquirt/website/assets/fonts/71f91e190b3095761c817ea293e87452/059cc73a1abfb2d5b02d0a7e1ff83362.woff2') format('woff2');
+    src: url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
 }
 
 @font-face {
-    font-family: 'Ibarra Real Nova';
+    font-family: 'Tektur';
     font-style: normal;
     font-weight: 700;
     font-display: swap;
-    src: url('https://cdn.sizquirt.net/sizquirt/website/assets/fonts/71f91e190b3095761c817ea293e87452/a51d7f10478a3d6827b409eb546d8fcf.woff2') format('woff2');
+    src: url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
 }
 
 @font-face {
-    font-family: 'Ibarra Real Nova';
+    font-family: 'Tektur';
     font-style: italic;
     font-weight: 700;
     font-display: swap;
-    src: url('https://cdn.sizquirt.net/sizquirt/website/assets/fonts/71f91e190b3095761c817ea293e87452/f0c6388fe7ff0c8fd30f323facb52ae4.woff2') format('woff2');
+    src: url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
 }
 
 @font-face {
-    font-family: 'IBM Plex Mono';
+    font-family: 'Tektur';
     font-style: normal;
     font-weight: 700;
     font-display: swap;
-    src: url('https://cdn.sizquirt.net/sizquirt/website/assets/fonts/211a65900d7f942642bc8319dedee210/831f568fdf2136a62482438c921a69e3.woff2') format('woff2');
+    src: url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
 }
 
 @font-face {
-    font-family: 'IBM Plex Mono';
+    font-family: 'Tektur';
     font-style: italic;
     font-weight: 700;
     font-display: swap;
-    src: url('https://cdn.sizquirt.net/sizquirt/website/assets/fonts/211a65900d7f942642bc8319dedee210/4a11a952286be76d0c1ef55614424460.woff2') format('woff2');
+    src: url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
 }
 
 @font-face {
-    font-family: 'IBM Plex Sans';
+    font-family: 'Tektur';
     font-style: normal;
     font-weight: 700;
     font-display: swap;
-    src: url('https://cdn.sizquirt.net/sizquirt/website/assets/fonts/e4e9d99943834aa837e2c43d95de798e/f1b2f2a3a872f56cf6564f3103764a6b.woff2') format('woff2');
+    src: url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
 }
 
 @font-face {
-    font-family: 'IBM Plex Sans';
+    font-family: 'Tektur';
     font-style: italic;
     font-weight: 700;
     font-display: swap;
-    src: url('https://cdn.sizquirt.net/sizquirt/website/assets/fonts/e4e9d99943834aa837e2c43d95de798e/8898c67bae74f8464fdab30fbdb0ffbc.woff2') format('woff2');
+    src: url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
 }
 
 html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video {
@@ -173,7 +173,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
             color: azure;
             padding: 5px;
             font-size: 20px;
-            font-family: 'IBM Plex Serif';
+            font-family: 'Tektur';
             border: #9f7cc2;
             cursor: pointer;
             background-image: linear-gradient(22deg, #AC64C4 0%, rgba(167, 112, 191, 0.53) 100%);
@@ -193,7 +193,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
             display: none;
             position: absolute;
             background-color: #B09BC6;
-            font-family: 'IBM Plex Serif';
+            font-family: 'Tektur';
             font-size: 20px;
             min-width: 140px;
             box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -205,7 +205,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 
             /* Links inside the dropdown */
             .dropdown-content a {
-                font-family: 'IBM Plex Serif';
+                font-family: 'Tektur';
                 color: azure;
                 padding: 12px 16px;
                 background-image: linear-gradient(22deg, #AC64C4 0%, rgba(167, 112, 191, 0.53) 100%);
@@ -768,8 +768,8 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 
 #text03 {
     text-align: center;
-    color: #FFFFFF;
-    font-family: 'IBM Plex Serif', serif;
+    color: #6F5DF4;
+    font-family: 'Tektur';
     font-size: 1em;
     line-height: 1.125;
     font-weight: 400;
@@ -790,8 +790,8 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 
 #text01 {
     text-align: center;
-    color: #FFFFFF;
-    font-family: 'Ibarra Real Nova', serif;
+    color: #6F5DF4;
+    font-family: 'Tektur';
     font-size: 1.125em;
     line-height: 1;
     font-weight: 400;
@@ -812,16 +812,16 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 
 #text14 {
     text-align: center;
-    color: #FFFFFF;
-    font-family: 'IBM Plex Serif', serif;
+    color: #6F5DF4;
+    font-family: 'Tektur';
     font-size: 1.25em;
     line-height: 1;
     font-weight: 500;
 }
 
-#text14 strong {
-    color: #FFFFFF;
-}
+    #text14 strong {
+        color: #6F5DF4;
+    }
 
 #text14 a {
     text-decoration: underline;
@@ -836,8 +836,8 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 }
 
 #text05 {
-    color: #FFFFFF;
-    font-family: 'IBM Plex Serif', serif;
+    color: #6F5DF4;
+    font-family: 'Tektur';
     font-size: 1.25em;
     line-height: 1;
     font-weight: 500;
@@ -858,8 +858,8 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 
 #text04 {
     text-align: center;
-    color: #FFFFFF;
-    font-family: 'IBM Plex Serif', serif;
+    color: #6F5DF4;
+    font-family: 'Tektur';
     font-size: 0.75em;
     line-height: 1;
     font-weight: 500;
@@ -881,8 +881,8 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 #text19 {
     text-align: center;
     text-transform: lowercase;
-    color: #FFFFFF;
-    font-family: 'Ibarra Real Nova', serif;
+    color: #6F5DF4;
+    font-family: 'Tektur';
     font-size: 0.5em;
     line-height: 0.875;
     font-weight: 700;
@@ -904,7 +904,7 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 #text11 {
     text-align: center;
     color: rgba(255,184,184,0.749);
-    font-family: 'IBM Plex Serif', serif;
+    font-family: 'Tektur';
     font-size: 1.125em;
     line-height: 0.75;
     font-weight: 600;
@@ -924,8 +924,8 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 }
 
 #text09 {
-    color: #FFFFFF;
-    font-family: 'IBM Plex Serif', serif;
+    color: #6F5DF4;
+    font-family: 'Tektur';
     font-size: 1.375em;
     line-height: 1;
     font-weight: 600;
@@ -945,8 +945,8 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 }
 
 #text06 {
-    color: #FFFFFF;
-    font-family: 'IBM Plex Serif', serif;
+    color: #6F5DF4;
+    font-family: 'Tektur';
     padding-left: calc(3.25rem * var(--indent-left));
     padding-right: calc(3.25rem * var(--indent-right));
     font-size: 0.875em;
@@ -969,7 +969,7 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 
 #text10 {
     color: rgba(255,255,255,0.749);
-    font-family: 'IBM Plex Serif', serif;
+    font-family: 'Tektur';
     font-size: 0.75em;
     line-height: 0.875;
     font-weight: 400;
@@ -989,8 +989,8 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 }
 
 #text08 {
-    color: #FFFFFF;
-    font-family: 'IBM Plex Serif', serif;
+    color: #6F5DF4;
+    font-family: 'Tektur';
     font-size: 0.625em;
     line-height: 1;
     font-weight: 300;
@@ -1032,8 +1032,8 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 
 #text07 {
     text-align: center;
-    color: #F7F2F2;
-    font-family: 'IBM Plex Serif', serif;
+    color: #6F5DF4;
+    font-family: 'Tektur';
     font-size: 1.125em;
     line-height: 1;
     font-weight: 500;
@@ -1054,8 +1054,8 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 
 #text12 {
     text-align: center;
-    color: #FFFFFF;
-    font-family: 'IBM Plex Serif', serif;
+    color: #6F5DF4;
+    font-family: 'Tektur';
     font-size: 0.625em;
     line-height: 1;
     font-weight: 600;
@@ -1077,7 +1077,7 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 #text16 {
     text-align: center;
     color: #FFFFFF;
-    font-family: 'IBM Plex Serif', serif;
+    font-family: 'Tektur';
     font-size: 0.625em;
     line-height: 1;
     font-weight: 400;
@@ -1119,8 +1119,8 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 
 #text18 {
     text-align: center;
-    color: #FFFFFF;
-    font-family: 'IBM Plex Serif', serif;
+    color: #6F5DF4;
+    font-family: 'Tektur';
     font-size: 1em;
     line-height: 0.75;
     font-weight: 600;
@@ -1140,8 +1140,8 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 }
 
 #text15 {
-    color: #FFFFFF;
-    font-family: 'IBM Plex Serif', serif;
+    color: #6F5DF4;
+    font-family: 'Tektur';
     font-size: 0.75em;
     line-height: 1;
     font-weight: 600;
@@ -1161,8 +1161,8 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 }
 
 #text13 {
-    color: #FFFFFF;
-    font-family: 'IBM Plex Serif', serif;
+    color: #6F5DF4;
+    font-family: 'Tektur';
     font-size: 0.75em;
     line-height: 1;
     font-weight: 600;
@@ -1217,7 +1217,7 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
     line-height: 1.875rem;
     padding: 0 0.46875rem;
     vertical-align: middle;
-    font-family: 'IBM Plex Serif', serif;
+    font-family: 'Tektur';
     font-size: 1em;
     font-weight: 500;
     border-radius: 0.125rem;
@@ -1491,7 +1491,7 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
     line-height: 1.875rem;
     padding: 0 0.46875rem;
     vertical-align: middle;
-    font-family: 'IBM Plex Serif', serif;
+    font-family: 'Tektur';
     font-size: 1em;
     font-weight: 500;
     border-radius: 0.125rem;
@@ -2987,7 +2987,7 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
     gap: 0rem;
     flex-direction: column;
     flex-wrap: nowrap;
-    font-family: 'IBM Plex Serif', serif;
+    font-family: 'Tektur';
     letter-spacing: -0.025rem;
     margin-right: 0.025rem;
     font-size: 1em;
