@@ -314,7 +314,7 @@ body:before {
     transform: scale(1);
     width: 100vw;
     z-index: 0;
-    background-image: url('https://cdn.sizquirt.net/sizquirt/website/assets/images/image03.jpg');
+    background-image: url('/sizquirt/website/assets/images/image03.jpg');
     background-size: cover;
     background-position: center, 0% 0%, top left;
     background-color: #FFFFFF;
