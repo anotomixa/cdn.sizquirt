@@ -446,6 +446,7 @@ unloaded-script {
     border-right: solid 4px rgba(255,255,255,0.31);
     border-bottom: solid 4px rgba(255,255,255,0.31);
     border-left: solid 4px rgba(255,255,255,0.31);
+    border-top: solid 4px rgba(255,255,255,0.31);
 }
 
 #main > .inner {
@@ -767,7 +768,7 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 
 #text03 {
     text-align: center;
-    color: #8575FF;
+    color: #DCDBE5;
     font-family: 'Unbounded Variable';
     font-size: 1em;
     line-height: 1.125;
@@ -788,7 +789,7 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 
 #text01 {
     text-align: center;
-    color: #6F5DF4;
+    color: #4831FF;
     font-family: 'Unbounded Variable';
     font-size: 1.125em;
     line-height: 1;
@@ -809,7 +810,7 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 
 #text14 {
     text-align: center;
-    color: #9689F4;
+    color: #4831FF;
     font-family: 'Unbounded Variable';
     font-size: 1.25em;
     line-height: 1;
@@ -855,7 +856,7 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 
 #text04 {
     text-align: center;
-    color: #6F5DF4;
+    color: #D5CFFF;
     font-family: 'Unbounded Variable';
     font-size: 0.75em;
     line-height: 1;
@@ -1158,7 +1159,7 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
 }
 
 #text13 {
-    color: #6F5DF4;
+    color: #4E3FBE;
     font-family: 'Unbounded Variable';
     font-size: 0.75em;
     line-height: 1;
@@ -2101,8 +2102,8 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
     width: 100%;
     align-items: center;
     justify-content: center;
-    background-color: #2735ffa8;
-    border-color: rgba(255,255,255,0.31);
+    background-color: #3c46daa8;
+    border-color: rgba(58, 58, 58, 0.31);
     border-style: solid;
     border-width: 3px;
     border-radius: 10px;
